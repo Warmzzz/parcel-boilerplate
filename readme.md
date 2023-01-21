@@ -15,6 +15,11 @@ npm run start
 npm run build-prod
 ```
 
+### Compiles and minifies for production without source mapping
+```
+npm run build-prod-no-map
+```
+
 ### Clean
 ```
 npm run clean
